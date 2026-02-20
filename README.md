@@ -41,9 +41,9 @@ After activation, you can run commands with `python` directly.
 - You choose: `rock`, `paper`, or `scissors`
 - The computer randomly chooses one option
 - The winner is decided by classic rules:
-	- Rock beats Scissors
-	- Scissors beats Paper
-	- Paper beats Rock
+  - Rock beats Scissors
+  - Scissors beats Paper
+  - Paper beats Rock
 
 ## Run the game
 
